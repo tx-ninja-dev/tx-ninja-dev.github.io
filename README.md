@@ -4,4 +4,4 @@ Experience
 ---------
 **Software Architect**
 
-- Focus on big pictue
+- Focus on big picture
