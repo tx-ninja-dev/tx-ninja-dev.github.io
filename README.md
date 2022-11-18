@@ -2,6 +2,6 @@ _Passionate about software development_
 
 Experience
 ---------
-**Software Architect
+**Software Architect**
 
 - Focus on big pictue
