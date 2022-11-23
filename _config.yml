@@ -1,2 +1,12 @@
-title: Tx Ninja Dev
-theme: jekyll-theme-dinkyy
+title: TX Ninja Dev
+remote_theme: olivier3lanc/Jekyll-LibDoc
+#theme: jekyll-theme-dinkyy
+defaults:
+  -
+    values:
+      layout: libdoc/page
+kramdown:
+    syntax_highlighter_opts:
+        disable: true
+sass:
+    style: compressed
